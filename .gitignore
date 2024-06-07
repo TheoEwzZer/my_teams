@@ -1,0 +1,10 @@
+myteams_server
+myteams_cli
+*.o
+.vscode
+users_server
+users_client
+.txt
+messages
+teams
+channels
