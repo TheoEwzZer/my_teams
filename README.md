@@ -171,7 +171,7 @@ Please look at the display library header, to find the variables of each data st
 
 ## FINAL MARK
 
-### MARK: 16 / 27 (66.7%)
+### MARK: 16 / 24 (66.7%)
 
 -   01 - Preliminaries (6 / 6)
 -   02 - logins (2 / 2)
